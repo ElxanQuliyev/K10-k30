@@ -10,5 +10,5 @@
 <p>Bir xəbər saytı üçün databaza yaradın. Xəbərlərin başlığı, məzmunu, şəkli, yazılma tarixi, yazan müəllif olmalıdır. Kommentlər olacaq, kommentin məzmunu, hansı istifadəçi tərəfindən yazıldığı, kommentin hansı posta yazıldığı, nə zaman yazıldığı bilinməlidir. Sonda xəbərlər və kommentlər doldurulmalı və bütün xəbərlərin və kommentlərin haqqında bütün məlumatları göstərən yekun bir select verilməlidir.</p>
 </li>
 </ul>
-<p><em>Gelen dərsə qədər. Uğurlar.</em></p>
+<p><em>Gələn dərsə qədər. Uğurlar.</em></p>
 </article>
